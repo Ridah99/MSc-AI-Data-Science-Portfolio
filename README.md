@@ -14,19 +14,19 @@ Collection of academic projects demonstrating applied machine learning and data 
   3. Transfer learning feature extraction and ensemble model development  
 - Addressed critical healthcare challenge: Reduced diagnostic time by 75% compared to manual analysis  
 
-### 2. GB Road Accident Analysis (2020)
+### 2. Great Britain Road Accident Analysis (2020)
 **Keywords**: Geospatial Clustering · Predictive Modeling · Big Data  
 - Analyzed 400K+ accidents using SQLite and Python  
 - Developed stacked classifier (XGBoost + Logistic Regression) predicting fatal injuries with 74% accuracy 
 - Key findings: Identified Friday evening rush hours as highest-risk period through temporal analysis  
 
-### 3. Skin Cancer Detection (Binary Classification)
+### 3. Skin Cancer Detection with Machine Learning (Binary Classification)
 **Keywords**: Medical AI · Transfer Learning · Ensemble Methods  
 - Achieved 89.8% accuracy using stacked InceptionV3 + SVM/XGBoost model  
 - Implemented class weights to address dataset imbalance  
 - Demonstrated AI's potential to reduce dermatologist workload by 40% (based on literature benchmarks)
 
-### 4. Town Census Analysis
+### 4. Town_Population_Census_Analysis_&_Recommendations
 **Keywords**: Demographic Modeling · Strategic Planning  
 - Processed 50+ demographic features using Pandas  
 - Delivered actionable insights: Recommended priority investments in elderly care (+23% projected need) and low-density housing  
