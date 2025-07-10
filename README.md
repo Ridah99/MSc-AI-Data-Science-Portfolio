@@ -41,7 +41,7 @@ Collection of academic projects demonstrating applied machine learning and data 
 | Analysis          | Apriori Algorithm, K-Means and KMediod Clustering     |
 
 ## 📝 Usage Notes
-- Academic projects completed for MSc at University of Hull (2023-2024)    
+- Academic projects completed for MSc Artificial Intelligence and Data Science at University of Hull (2023-2024)    
 - Notebooks include full methodological documentation  
 
 *"These projects reflect my ability to transform raw data into actionable insights using cutting-edge AI techniques."*
