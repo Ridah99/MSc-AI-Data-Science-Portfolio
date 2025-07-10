@@ -1,2 +1,38 @@
-# MSc-AI-Data-Science-Portfolio
-MSc AI &amp; Data Science academic portfolio featuring projects using data analysis and machine learning algorithms. My coursework includes practical applications in computer vision, big data analysis, and ensemble methods, all demonstrating strong problem-solving skills
+# MSc AI & Data Science Academic Portfolio
+
+**Repository Overview**  
+Collection of academic projects demonstrating applied machine learning and data science skills across healthcare, transportation, and demographic analysis domains.  
+
+## 🏆 Featured Projects
+
+### 1. GB Road Accident Analysis (2020)
+**Keywords**: Geospatial Clustering · Predictive Modeling · Big Data  
+- Analyzed 400K+ accidents using SQLite and Python  
+- Developed stacked classifier (XGBoost + Logistic Regression) predicting fatal injuries with 74% accuracy 
+- Key findings: Identified Friday evening rush hours as highest-risk period through temporal analysis  
+
+### 2. Skin Cancer Detection (Binary Classification)
+**Keywords**: Medical AI · Transfer Learning · Ensemble Methods  
+- Achieved 89.8% accuracy using stacked InceptionV3 + SVM/XGBoost model  
+- Implemented class weights to address dataset imbalance  
+- Demonstrated AI's potential to reduce dermatologist workload by 40% (based on literature benchmarks)
+
+### 3. Town Census Analysis
+**Keywords**: Demographic Modeling · Strategic Planning  
+- Processed 50+ demographic features using Pandas  
+- Delivered actionable insights: Recommended priority investments in elderly care (+23% projected need) and low-density housing  
+
+## 🛠️ Core Skills Demonstrated
+| Category          | Technologies & Methods                            |
+|-------------------|--------------------------------------------       |
+| Data Processing   | SQL, Pandas, Missing Value Imputation             |     
+| Machine Learning  | XGBoost, SVM, RF, DT, Stacked Ensembles           |
+| Deep Learning     | CNN, Transfer Learning                            |
+| Visualization     | Matplotlib, Seaborn, Folium (Geospatial)          |
+| Analysis          | Apriori Algorithm, K-Means and KMediod Clustering |
+
+## 📝 Usage Notes
+- Academic projects completed for MSc at University of Hull (2023-2024)    
+- Notebooks include full methodological documentation  
+
+*"These projects reflect my ability to transform raw data into actionable insights using cutting-edge AI techniques."*
